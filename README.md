@@ -41,10 +41,10 @@ The Song Library Management System is a web app enabling users to manage songs w
 ### Project Structure
 
 
--**index.html**: Main HTML file containing the structure of the web application.
--**style.css**: CSS file for styling the HTML elements and layout of the application.
--**script.js**: JavaScript file containing the logic for dynamic behavior and functionalities of the application.
--**Images**: Folder containing any images used in the application, such as icons or album covers.
+1.-**index.html**: Main HTML file containing the structure of the web application.
+2.-**style.css**: CSS file for styling the HTML elements and layout of the application.
+3.-**script.js**: JavaScript file containing the logic for dynamic behavior and functionalities of the application.
+4.-**Images**: Folder containing any images used in the application, such as icons or album covers.
 
 ### Additional Project Ideas
 
